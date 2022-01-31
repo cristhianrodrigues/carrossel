@@ -4,4 +4,4 @@
 
 Este é um projeto de carrossel que eu montei para ilustrar um pouco das habilidades que estou adquirindo, esse pequeno projeto foi feito em HTML e CSS3.
 
-Você pode ver esse projeto funcionando no link: https://cristhian-lucas.github.io/carrossel/
+Você pode ver esse projeto funcionando no link: https://cristhianrodrigues.github.io/carrossel/
